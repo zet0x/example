@@ -9,9 +9,9 @@
 
 return [
 
-	"host_db" => "localhost",
-	"name_db" => "dvurechensky48_ekfo",
-	"user_db" => "dvurechensky48",
-	"pass_db" => "nik482761",
+	"host_db" => "",
+	"name_db" => "",
+	"user_db" => "",
+	"pass_db" => "",
 
 ];
